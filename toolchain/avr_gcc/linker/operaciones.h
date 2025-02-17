@@ -1,0 +1,2 @@
+void conmutar();
+void reset();
